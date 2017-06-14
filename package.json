@@ -1,0 +1,25 @@
+{
+  "name": "poly-count",
+  "version": "1.0.0",
+  "description": "Polymorphic item counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.machobear.ca:platform/poly-count.git"
+  },
+  "keywords": [
+    "object",
+    "array",
+    "count",
+    "length"
+  ],
+  "author": "Machobear Studio Inc.",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
